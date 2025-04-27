@@ -1,2 +1,1 @@
-só para testar
-boa
+Este repositório reúne atividades e exercícios desenvolvidos durante meu curso de graduação. Os códigos aqui presentes foram criados com o objetivo de praticar e aprofundar os conhecimentos adquiridos em sala de aula, abrangendo diferentes disciplinas e conceitos de programação.
